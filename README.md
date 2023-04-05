@@ -1,1 +1,1 @@
-# knowledge-graph-drug-discovery
+# drug-discovery-kg
